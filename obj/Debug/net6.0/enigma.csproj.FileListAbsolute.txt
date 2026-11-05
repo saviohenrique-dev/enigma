@@ -1,0 +1,15 @@
+C:\Users\ALUNO\Desktop\enigma\bin\Debug\net6.0\enigma.exe
+C:\Users\ALUNO\Desktop\enigma\bin\Debug\net6.0\enigma.deps.json
+C:\Users\ALUNO\Desktop\enigma\bin\Debug\net6.0\enigma.runtimeconfig.json
+C:\Users\ALUNO\Desktop\enigma\bin\Debug\net6.0\enigma.dll
+C:\Users\ALUNO\Desktop\enigma\bin\Debug\net6.0\enigma.pdb
+C:\Users\ALUNO\Desktop\enigma\obj\Debug\net6.0\enigma.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Desktop\enigma\obj\Debug\net6.0\enigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Desktop\enigma\obj\Debug\net6.0\enigma.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Desktop\enigma\obj\Debug\net6.0\enigma.AssemblyInfo.cs
+C:\Users\ALUNO\Desktop\enigma\obj\Debug\net6.0\enigma.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\enigma\obj\Debug\net6.0\enigma.dll
+C:\Users\ALUNO\Desktop\enigma\obj\Debug\net6.0\refint\enigma.dll
+C:\Users\ALUNO\Desktop\enigma\obj\Debug\net6.0\enigma.pdb
+C:\Users\ALUNO\Desktop\enigma\obj\Debug\net6.0\enigma.genruntimeconfig.cache
+C:\Users\ALUNO\Desktop\enigma\obj\Debug\net6.0\ref\enigma.dll
